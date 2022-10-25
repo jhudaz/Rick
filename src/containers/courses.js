@@ -62,7 +62,7 @@ class Courses extends Component {
         </div>
         <div className="top">
           <h2 className="name">{e.coursePublication.course.name}</h2>
-          <label className="featured">FEATURED</label>
+          <label className="featured">FEATURED!</label>
           <h3 className="provider">{e.coursePublication.course.provider.name}</h3>
         </div>
         <div className="top2">
